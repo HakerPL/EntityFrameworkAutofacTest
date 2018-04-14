@@ -1,0 +1,17 @@
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\bin\Debug\EntityMySQL.exe.config
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\bin\Debug\EntityMySQL.exe
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\bin\Debug\EntityMySQL.pdb
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\bin\Debug\EntityFramework.dll
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\bin\Debug\EntityFramework.SqlServer.dll
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\bin\Debug\MySql.Data.dll
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\bin\Debug\EntityFramework.xml
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\bin\Debug\EntityFramework.SqlServer.xml
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\obj\Debug\EntityMySQL.Form1.resources
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\obj\Debug\EntityMySQL.Properties.Resources.resources
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\obj\Debug\EntityMySQL.csproj.GenerateResource.Cache
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\obj\Debug\EntityMySQL.csproj.CoreCompileInputs.cache
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\obj\Debug\EntityMySQL.exe
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\obj\Debug\EntityMySQL.pdb
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\obj\Debug\EntityMySQL.Migrations.InitialCreate.resources
+E:\MojeProgramy\C#\EntityMySQL\EntityMySQL\obj\Debug\EntityMySQL.Migrations.AddNam2.resources
