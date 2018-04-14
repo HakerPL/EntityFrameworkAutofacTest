@@ -1,0 +1,11 @@
+/PatternMVVM/bin
+/PatternMVVM/obj
+/.vs
+Pattern.Entities/obj/
+Pattern.Services/bin/
+Pattern.Entities/bin/
+Pattern.Di/bin/Debug/Autofac.xml
+Pattern.Di/obj/
+Pattern.Di/bin/
+Pattern.Data/obj/
+Pattern.Data/bin/
