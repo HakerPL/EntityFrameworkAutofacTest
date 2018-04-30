@@ -1,4 +1,9 @@
-﻿using MySql.Data.MySqlClient;
+﻿using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Pattern.Data.Factories
 {
@@ -11,7 +16,7 @@ namespace Pattern.Data.Factories
     {
         public ApplicationDbContext CreateContext()
         {
-            var dbConnection = new MySqlConnection("Server=127.0.0.1;Database=testapp;Uid=root;Pwd=root;");//new SqlConnection("Server=127.0.0.1;Database=testapp;Uid=root;Pwd=root;"); //SqlConnection("Server=KAJETAN-ASUS\\SQLEXPRESS;Database=Pattern2;Trusted_Connection=True;")
+            var dbConnection = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Pattern;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
             var context = new ApplicationDbContext(dbConnection);
             return context;
 

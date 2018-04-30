@@ -1,0 +1,15 @@
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\bin\Debug\Host.exe
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\bin\Debug\Host.pdb
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\bin\Debug\PluginInterface.dll
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\bin\Debug\PluginInterface.pdb
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\obj\Debug\Host.frmFeedback.resources
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\obj\Debug\Host.frmMain.resources
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\obj\Debug\Host.exe
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\obj\Debug\Host.pdb
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\bin\Debug\Plugin4.dll
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\bin\Debug\Plugin4.pdb
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Host\obj\Debug\Host.Form1.resources

@@ -1,0 +1,6 @@
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.csprojResolveAssemblyReference.cache
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.pdb

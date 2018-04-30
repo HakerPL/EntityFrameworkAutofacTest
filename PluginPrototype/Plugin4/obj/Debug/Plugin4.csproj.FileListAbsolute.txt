@@ -1,0 +1,9 @@
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Plugin4\bin\Debug\Plugin4.dll
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Plugin4\bin\Debug\Plugin4.pdb
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Plugin4\obj\Debug\Plugin4.csprojResolveAssemblyReference.cache
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Plugin4\obj\Debug\Plugin4.Plugin4.resources
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Plugin4\obj\Debug\Plugin4.csproj.GenerateResource.cache
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Plugin4\obj\Debug\Plugin4.csproj.CoreCompileInputs.cache
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Plugin4\obj\Debug\Plugin4.dll
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Plugin4\obj\Debug\Plugin4.pdb
+C:\Users\kw\Desktop\PluginsInCSharp_source\PluginPrototype\Plugin4\obj\Debug\Plugin4.Form1.resources
